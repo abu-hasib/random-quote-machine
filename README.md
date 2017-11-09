@@ -1,2 +1,4 @@
 # random-quote-machine
-Makes a reqest for a new quote on each button click
+# Part of the challenges on freecodecamp
+
+Makes a request for a new quote on each button click
